@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/7 Scenes/TABZ_World.unity
+- path: Assets/TABZMainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
